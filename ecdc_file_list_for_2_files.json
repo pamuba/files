@@ -1,0 +1,10 @@
+[
+    {
+        "sourceRelativeURL":"pamuba/files/blob/main/ecdc_data/cases_deaths.csv",
+        "sinkFileName":"cases_deaths.csv"
+    },
+    {
+        "sourceRelativeURL":"pamuba/files/blob/main/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions.csv"
+    }
+]
